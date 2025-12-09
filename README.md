@@ -11,4 +11,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/ravindran-dev/Leetcode/tree/master/2037-count-square-sum-triples) |
+## Array
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/ravindran-dev/Leetcode/tree/master/3583-count-special-triplets) |
+## Hash Table
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/ravindran-dev/Leetcode/tree/master/3583-count-special-triplets) |
+## Counting
+|  |
+| ------- |
+| [3583-count-special-triplets](https://github.com/ravindran-dev/Leetcode/tree/master/3583-count-special-triplets) |
 <!---LeetCode Topics End-->
